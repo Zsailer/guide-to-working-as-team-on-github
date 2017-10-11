@@ -24,9 +24,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="444.50204"
-     inkscape:cx="707.09123"
-     inkscape:zoom="0.48049805"
+     inkscape:cy="511.20383"
+     inkscape:cx="559.93041"
+     inkscape:zoom="0.59968409"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -262,7 +262,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -969,7 +969,7 @@
            height="143.601"
            x="-674.30035"
            y="760.99786" /></flowRegion><flowPara
-         id="flowPara5955"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5955" /></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;font-size:13.23549652px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#055ed1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5206-9-8-3"
        xml:space="preserve"
@@ -982,27 +982,31 @@
            width="162.83205"
            id="rect5210-5-6-5" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
-         id="flowPara5212-6-0-3">branch</flowPara></flowRoot>    <rect
-       y="305.45523"
-       x="467.7312"
-       height="25.401585"
-       width="227.73825"
-       id="rect4229"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:4.52283859;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         id="flowPara5212-6-0-3">branch</flowPara></flowRoot>    <g
+       id="g3701"
+       transform="translate(10,0)">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:4.52283859;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4229"
+         width="227.73825"
+         height="25.401585"
+         x="467.7312"
+         y="305.45523" />
+      <flowRoot
+         transform="translate(-12,82)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.56851578px;line-height:125%;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot6005"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6007"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline'"
+             y="225.28412"
+             x="483.23306"
+             height="96.010696"
+             width="212.72958"
+             id="rect6009" /></flowRegion><flowPara
+           style="fill:#ffffff;fill-opacity:1"
+           id="flowPara6024">$ git checkout -b patch </flowPara></flowRoot>    </g>
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot6005"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.56851578px;line-height:125%;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-12,82)"><flowRegion
-         id="flowRegion6007"><rect
-           id="rect6009"
-           width="212.72958"
-           height="96.010696"
-           x="483.23306"
-           y="225.28412"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline'" /></flowRegion><flowPara
-         id="flowPara6024"
-         style="fill:#ffffff;fill-opacity:1">$ git checkout -b patch </flowPara></flowRoot>    <flowRoot
        transform="matrix(0.90456772,0,0,0.90456772,-45.352999,-333.07219)"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6032"
@@ -1031,13 +1035,15 @@
    id="flowSpan6048"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';fill:#ff5555;fill-opacity:1">patch</flowSpan><flowSpan
    id="flowSpan7362"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1">. The following command creates the branch and switches you to that branc.</flowSpan></flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1">. The following command creates the branch and switches you to it.</flowSpan></flowPara><flowPara
          id="flowPara6068" /><flowPara
          id="flowPara6074" /><flowPara
          id="flowPara6086"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1"></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1"
-         id="flowPara7364">This creates patch and  your patch/feature and commit these changes.</flowPara></flowRoot>    <flowRoot
+         id="flowPara7364">Add and commit changes to the <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';fill:#ff5555"
+   id="flowSpan3708">patch</flowSpan> branch as normal.</flowPara></flowRoot>    <flowRoot
        transform="translate(-6,2)"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6060"
@@ -1048,7 +1054,7 @@
            height="22.074183"
            width="80.938667"
            id="rect6064" /></flowRegion><flowPara
-         id="flowPara6066"></flowPara></flowRoot>    <flowRoot
+         id="flowPara6066" /></flowRoot>    <flowRoot
        transform="translate(-6,2)"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6092"
@@ -1059,9 +1065,9 @@
            height="326.74429"
            width="434.96536"
            id="rect6096" /></flowRegion><flowPara
-         id="flowPara6098"></flowPara></flowRoot>    <g
+         id="flowPara6098" /></flowRoot>    <g
        id="g6592"
-       transform="translate(-13.89212,78)">
+       transform="translate(-3.89212,64)">
       <rect
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:4.52283859;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="rect4229-1"
@@ -1084,7 +1090,7 @@
            style="fill:#ffffff;fill-opacity:1"
            id="flowPara6024-5">$ git push origin patch</flowPara></flowRoot>    </g>
     <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,-46.492546,-129.35611)"
+       transform="matrix(0.90456772,0,0,0.90456772,-46.492546,-143.35611)"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6032-8"
        xml:space="preserve"><flowRegion
@@ -1097,7 +1103,7 @@
            id="rect6036-6" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.6375103px;line-height:100%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1"
          id="flowPara6038-5">Push branch to remote</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,60.643012,261.35512)"
+       transform="matrix(0.90456772,0,0,0.90456772,60.643012,247.35512)"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6040-7"
        xml:space="preserve"><flowRegion
@@ -1114,7 +1120,7 @@
    id="flowSpan6588">origin</flowSpan>. </flowPara><flowPara
          id="flowPara6086-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1" /></flowRoot>    <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,-45.81677,41.910538)"
+       transform="matrix(0.90456772,0,0,0.90456772,-45.81677,23.910538)"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:100%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6032-8-5"
        xml:space="preserve"><flowRegion
@@ -1140,7 +1146,7 @@
            id="rect6036-8" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.6375103px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1"
          id="flowPara6038-53">1.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,-81.634758,-129.35611)"
+       transform="matrix(0.90456772,0,0,0.90456772,-81.634758,-143.35611)"
        style="font-style:normal;font-weight:normal;font-size:27.6375103px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6032-0-5"
        xml:space="preserve"><flowRegion
@@ -1153,7 +1159,7 @@
            id="rect6036-8-5" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.6375103px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1"
          id="flowPara6038-53-7">2.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,-81.714261,41.910538)"
+       transform="matrix(0.90456772,0,0,0.90456772,-81.714261,23.910538)"
        style="font-style:normal;font-weight:normal;font-size:27.6375103px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6032-0-5-9"
        xml:space="preserve"><flowRegion
@@ -1167,7 +1173,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.6375103px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1"
          id="flowPara6038-53-7-6">3.</flowPara></flowRoot>    <g
        id="g6965"
-       transform="translate(-14.484361,-40)">
+       transform="translate(-14.484361,-56)">
       <flowRoot
          xml:space="preserve"
          id="flowRoot6032-8-5-4"
@@ -1196,7 +1202,7 @@
            id="flowPara6038-53-7-6-1"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.6375103px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1">4.</flowPara></flowRoot>    </g>
     <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,-46.341672,288.62613)"
+       transform="matrix(0.90456772,0,0,0.90456772,-46.341672,282.62613)"
        style="font-style:normal;font-weight:normal;font-size:27.6375103px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6032-8-5-6"
        xml:space="preserve"><flowRegion
@@ -1209,7 +1215,7 @@
            id="rect6036-6-0-3" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.6375103px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1"
          id="flowPara6038-5-0-3">Update origin</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,-81.738675,288.62613)"
+       transform="matrix(0.90456772,0,0,0.90456772,-81.738675,282.62613)"
        style="font-style:normal;font-weight:normal;font-size:27.6375103px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6032-0-5-9-96"
        xml:space="preserve"><flowRegion
@@ -1225,7 +1231,7 @@
        xml:space="preserve"
        id="flowRoot6599"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(1.1092822,0,0,1.1092822,-532.21294,21.42486)"><flowRegion
+       transform="matrix(1.1092822,0,0,1.1092822,-532.21294,31.42486)"><flowRegion
          id="flowRegion6601"><rect
            id="rect6603"
            width="247.40413"
@@ -1236,7 +1242,7 @@
          id="flowPara6605"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.5px;line-height:89.99999762%;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1">Submitting code to a team project</flowPara></flowRoot>    <g
        id="g7034"
-       transform="translate(0,-2)">
+       transform="translate(10,-18)">
       <rect
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:4.52283859;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="rect4229-1-5"
@@ -1258,28 +1264,35 @@
              id="rect6009-8-5" /></flowRegion><flowPara
            style="fill:#ffffff;fill-opacity:1"
            id="flowPara6024-5-2">$ git pull upstream master</flowPara></flowRoot>    </g>
-    <rect
-       y="919.03455"
-       x="465.69379"
-       height="25.401585"
-       width="227.73825"
-       id="rect4229-1-5-0"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:4.52283859;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <g
+       id="g3693"
+       transform="translate(10,-6)">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:4.52283859;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4229-1-5-0"
+         width="227.73825"
+         height="25.401585"
+         x="465.69379"
+         y="919.03455" />
+      <g
+         id="g3687">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot6005-5-2-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.56851578px;line-height:125%;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-15.929533,499.48961)"><flowRegion
+             id="flowRegion6007-3-0-0"><rect
+               id="rect6009-8-5-2"
+               width="212.72958"
+               height="96.010696"
+               x="485.12521"
+               y="421.37375"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline'" /></flowRegion><flowPara
+             id="flowPara6024-5-2-5"
+             style="fill:#ffffff;fill-opacity:1">$ git push origin master</flowPara></flowRoot>      </g>
+    </g>
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot6005-5-2-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.56851578px;line-height:125%;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-15.929533,499.48961)"><flowRegion
-         id="flowRegion6007-3-0-0"><rect
-           id="rect6009-8-5-2"
-           width="212.72958"
-           height="96.010696"
-           x="485.12521"
-           y="421.37375"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline'" /></flowRegion><flowPara
-         id="flowPara6024-5-2-5"
-         style="fill:#ffffff;fill-opacity:1">$ git push origin master</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,59.690208,436.24822)"
+       transform="matrix(0.90456772,0,0,0.90456772,59.690208,418.24822)"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6040-7-8"
        xml:space="preserve"><flowRegion
@@ -1393,7 +1406,7 @@
            id="flowPara5212-6-0-1-5-3"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.33289909px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome">5</flowPara></flowRoot>    </g>
     <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,59.690208,517.5609)"
+       transform="matrix(0.90456772,0,0,0.90456772,59.690208,501.5609)"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6040-7-8-2"
        xml:space="preserve"><flowRegion
@@ -1421,7 +1434,7 @@
            height="132.15454"
            x="426.64066"
            y="646.53326" /></flowRegion><flowPara
-         id="flowPara7008"></flowPara></flowRoot>    <flowRoot
+         id="flowPara7008" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7041"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:15px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -1431,8 +1444,8 @@
            height="90.531067"
            x="407.9101"
            y="700.6438" /></flowRegion><flowPara
-         id="flowPara7047"></flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,59.690208,662.69889)"
+         id="flowPara7047" /></flowRoot>    <flowRoot
+       transform="matrix(0.90456772,0,0,0.90456772,59.690208,656.69889)"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6040-7-8-2-0"
        xml:space="preserve"><flowRegion

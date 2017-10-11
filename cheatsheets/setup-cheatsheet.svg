@@ -24,9 +24,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="679.80736"
-     inkscape:cx="550.92084"
-     inkscape:zoom="0.21202034"
+     inkscape:cy="390.44505"
+     inkscape:cx="520.16865"
+     inkscape:zoom="1.0584453"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -902,11 +902,11 @@
            style="fill:#666666;fill-opacity:1"
            y="193.09216"
            x="481.11615"
-           height="161.02702"
-           width="231.52948"
+           height="165.75095"
+           width="242.86687"
            id="rect6044" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1"
-         id="flowPara7364">This is as easy as XX. Simply click the &quot;Fork&quot; button on any project on Github. This will create a frozen copy of the project to your account. We will name the original branch <flowSpan
+         id="flowPara7364">Simply click the &quot;Fork&quot; button on any project on Github. This will create a frozen copy of the project to your account. We will name the original branch <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';fill:#ff5555"
    id="flowSpan4499">upstream</flowSpan> and the remote copy <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';fill:#ff5555"
@@ -932,28 +932,31 @@
            height="326.74429"
            width="434.96536"
            id="rect6096" /></flowRegion><flowPara
-         id="flowPara6098" /></flowRoot>    <rect
-       y="561.54492"
-       x="467.7312"
-       height="30.817284"
-       width="242.2688"
-       id="rect4229-1"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:4.52283859;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         id="flowPara6098" /></flowRoot>    <g
+       id="g4506">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:4.52283859;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4229-1"
+         width="242.2688"
+         height="30.817284"
+         x="467.7312"
+         y="541.54492" />
+      <flowRoot
+         transform="translate(-13.89212,126)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.56851578px;line-height:125%;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot6005-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6007-3"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline'"
+             y="421.37375"
+             x="485.12521"
+             height="92.675621"
+             width="227.73749"
+             id="rect6009-8" /></flowRegion><flowPara
+           style="fill:#ffffff;fill-opacity:1"
+           id="flowPara6024-5">$ git clone &lt;url-to-origin&gt;</flowPara></flowRoot>    </g>
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot6005-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.56851578px;line-height:125%;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-13.89212,144)"><flowRegion
-         id="flowRegion6007-3"><rect
-           id="rect6009-8"
-           width="227.73749"
-           height="92.675621"
-           x="485.12521"
-           y="421.37375"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline'" /></flowRegion><flowPara
-         id="flowPara6024-5"
-         style="fill:#ffffff;fill-opacity:1">$ git clone &lt;url-to-origin&gt;</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,-46.492546,-118.37236)"
+       transform="matrix(0.90456772,0,0,0.90456772,-46.492546,-124.37236)"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6032-8"
        xml:space="preserve"><flowRegion
@@ -992,7 +995,7 @@
            id="rect6036-8" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.6375103px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1"
          id="flowPara6038-53">1.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.90456772,0,0,0.90456772,-81.634758,-123.35611)"
+       transform="matrix(0.90456772,0,0,0.90456772,-81.634758,-129.35611)"
        style="font-style:normal;font-weight:normal;font-size:27.6375103px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6032-0-5"
        xml:space="preserve"><flowRegion
@@ -1043,11 +1046,13 @@
            width="265.82318"
            id="rect6044-4-6" /></flowRegion><flowPara
          id="flowPara6086-8-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1">Once we have the project on your local machine, we want to point it to the <flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1">Once we have the project on your local machine, we want it aware of both the <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';fill:#ff5555"
    id="flowSpan4586">origin</flowSpan> and <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';fill:#ff5555"
-   id="flowSpan4590">upstream</flowSpan> remote copies. This allows us to pull updates as the upsthse branches evolve.  </flowPara></flowRoot>    <flowRoot
+   id="flowSpan4590">upstream</flowSpan> copies on Github. This allows us to pull/push updates as the <flowSpan
+   style="fill:#ff5555;-inkscape-font-specification:'Meslo LG S for Powerline';font-family:'Meslo LG S for Powerline';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan4513">upstream</flowSpan> branch evolves  </flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;font-size:13.23549652px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#055ed1;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5206-9-6-3"
        xml:space="preserve"
@@ -1293,18 +1298,18 @@
        style="font-style:normal;font-weight:normal;font-size:13.56851578px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6040-8"
        xml:space="preserve"
-       transform="translate(-6.0000029,252)"><flowRegion
+       transform="translate(-6.0000029,246)"><flowRegion
          id="flowRegion6042-3"><rect
            style="fill:#666666;fill-opacity:1"
            y="193.09216"
            x="481.11615"
-           height="161.02702"
-           width="231.52948"
+           height="164.80617"
+           width="245.7012"
            id="rect6044-6" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1"
-         id="flowPara7364-5">Now, we need to get this project on your local machine so you can begin contributing. Clone <flowSpan
+         id="flowPara7364-5">Now let's  get this project onto your local machine so you can begin contributing! Clone <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';fill:#ff5555"
-   id="flowSpan4503">origin</flowSpan> to your machine. Git automatic-ally names this local copy <flowSpan
+   id="flowSpan4503">origin</flowSpan> to your machine. Git automatically names this local copy <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Meslo LG S for Powerline';-inkscape-font-specification:'Meslo LG S for Powerline';fill:#ff5555"
    id="flowSpan4511">upstream</flowSpan>.</flowPara></flowRoot>    <text
        xml:space="preserve"
@@ -1327,7 +1332,7 @@
            height="44.807022"
            x="573.05823"
            y="575.9928" /></flowRegion><flowPara
-         id="flowPara4521"></flowPara></flowRoot>    <g
+         id="flowPara4521" /></flowRoot>    <g
        id="g4596">
       <rect
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:4.52283859;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -1353,6 +1358,6 @@
            style="fill:#ffffff;fill-opacity:1"
            id="flowPara4555">  &lt;url-to-upstream&gt; </flowPara><flowPara
            style="fill:#ffffff;fill-opacity:1"
-           id="flowPara4553">  </flowPara></flowRoot>    </g>
+           id="flowPara4553" /></flowRoot>    </g>
   </g>
 </svg>

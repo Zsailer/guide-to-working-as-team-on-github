@@ -1,6 +1,9 @@
-# Quick guide to working as a team on Github
+# Working on team project
 
+## Front Page
 
-<img src="cheatsheets/setup-cheatsheet.png" style="width:50%;height:50%;">
+<img src="cheatsheets/setup-cheatsheet.png" style="width:30%;height:30%;">
 
-<img src="cheatsheets/pr-cheatsheet.png" style="width:50%;height:50%;">
+## Back Page
+
+<img src="cheatsheets/pr-cheatsheet.png" style="width:30%;height:30%;">
