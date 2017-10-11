@@ -1,4 +1,6 @@
-<p style="font-size:50px;">Quick guide</p><p style="font-size:10px;">to working as a team on Github</p>
+# Quick guide
+
+to working as a team on Github
 
 ## Front Page
 
