@@ -24,9 +24,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="425.589"
-     inkscape:cx="290.85027"
-     inkscape:zoom="0.96024969"
+     inkscape:cy="384.48782"
+     inkscape:cx="615.5962"
+     inkscape:zoom="1.7423281"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1318,7 +1318,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1"
          id="flowPara3693">The next step is to submit the changes to the team project.  In your web browser, open the <flowSpan
    style="fill:#ff2a2a;fill-opacity:1"
-   id="flowSpan4553">master</flowSpan> project on github and click the &quot;New Pull Request&quot; button.  </flowPara><flowPara
+   id="flowSpan4553">master</flowSpan> project on github and click the &quot;Compare &amp; Pull Request&quot; button.  </flowPara><flowPara
          id="flowPara6086-8-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#666666;fill-opacity:1" /></flowRoot>    <flowRoot
        transform="matrix(0.88236646,0,0,0.88236646,355.61992,684.15874)"
